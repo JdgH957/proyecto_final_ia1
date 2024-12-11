@@ -14,6 +14,6 @@
 
 **Notebook:** https://colab.research.google.com/drive/1wllij0r_v2GmLxS8POTUaPTYO5ptSCtL#scrollTo=qSk8iNGg2ZMu
 
-**Video:** 
+**Video:** https://www.youtube.com/watch?v=Fvez9T4eaK8&ab_channel=JoanPedraza
 
 **Repositorio:** https://github.com/JdgH957/proyecto_final_ia1/tree/main
